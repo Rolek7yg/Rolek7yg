@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; 16yo hobby programmer.
-- 🤔 &nbsp; Open to collaborating with others on open-source projects and sharing knowledge.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
