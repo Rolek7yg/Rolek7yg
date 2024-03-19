@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Hey!+This+is+Rolek)](https://github.com/Rolek7)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-lorem imput etwatwk'wgtgikahl;awhawhwa
 
 <p align="left" height="130px">
   <a href="https://github.com/Rolek7">
