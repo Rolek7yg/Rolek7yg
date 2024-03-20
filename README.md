@@ -8,15 +8,13 @@
   </a>
 </p>
 
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop)
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/?username=Rolek7&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
+    </td>
+        <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolek7&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&enable_animations=true" />
+    </td>
+  </tr>
+</p>
