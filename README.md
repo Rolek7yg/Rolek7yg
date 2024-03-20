@@ -2,12 +2,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<p align="left" height="130px">
-  <a href="https://github.com/Rolek7">
-    <img align="" height='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolek7&hide_title=true&layout=compact&bg_color=0000&text_color=2f80ed">
-  </a>
-</p>
-
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
