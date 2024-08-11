@@ -18,4 +18,4 @@
 <a href="https://discord.com/users/689101017996197900" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
 <a href="https://twitter.com/Rolek_7" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
 
-<img width="100%" align="right" alt="Snake" src="https://github.com/KoRrNiK/KoRrNiK/blob/output/github-contribution-grid-snake.svg">
+<!--<img width="100%" align="right" alt="Snake" src="https://github.com/KoRrNiK/KoRrNiK/blob/output/github-contribution-grid-snake.svg">
