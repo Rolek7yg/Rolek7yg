@@ -1,5 +1,5 @@
-<a href="https://discord.com/users/689101017996197900" target="_blank">
-    <img width="50%" align="right" alt="Discord Status" src="https://lanyard-profile-readme.vercel.app/api/689101017996197900?bg=161B22&borderRadius=5px%205px%200%200&animated=true&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...">
+<!--<a href="https://discord.com/users/689101017996197900" target="_blank">
+    <img width="50%" align="right" alt="Discord Status" src="https://lanyard-profile-readme.vercel.app/api/689101017996197900?bg=161B22&borderRadius=5px%205px%200%200&animated=true&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...">-->
 
 <br><br>
 
