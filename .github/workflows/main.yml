@@ -1,9 +1,9 @@
 name: Snake SVG
 
 on:
-    # every 6 hours
+    # every 3 hours
     schedule:
-        - cron: '0 */6 * * *'
+        - cron: '0 */3 * * *'
 
     workflow_dispatch:
 
