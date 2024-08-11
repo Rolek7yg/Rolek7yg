@@ -13,6 +13,8 @@
 
 <br>
 
+<br><br>
+
 #### 📫 Contact and Socials 🔎
 
 <a href="https://discord.com/users/689101017996197900" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
