@@ -9,8 +9,7 @@
 ### My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Rolek7yg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" />
 
-<a href="http://www.github.com/Rolek7yg">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rolek7yg&stroke=ffffff&background=1c1917&ring=B20891
+<a href="http://www.github.com/Rolek7yg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rolek7yg&stroke=ffffff&background=1c1917&ring=B20891
 &fire=B20891&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
