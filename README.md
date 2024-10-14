@@ -7,8 +7,8 @@
 
 
 ### My GitHub Stats
-![Rolek7yg's Stats](https://github-readme-stats.vercel.app/api?username=Rolek7yg&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Rolek7yg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rolek7yg&theme=tokyonight&hide_border=true)
+![Rolek7yg's Stats](https://github-readme-stats.vercel.app/api?username=Rolek7yg&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Rolek7yg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rolek7yg&theme=radical&hide_border=true)
   
   </td>
 </tr>
