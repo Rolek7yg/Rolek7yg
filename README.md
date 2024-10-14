@@ -7,12 +7,8 @@
 
 
 ### My GitHub Stats
-<a href="http://www.github.com/Rolek7yg"><img src="https://github-readme-stats.vercel.app/api?username=Rolek7yg&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"  /><a/>
-
-<a href="http://www.github.com/Rolek7yg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rolek7yg&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-
+![Rolek7yg's Stats](https://github-readme-stats.vercel.app/api?username=Rolek7yg&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Rolek7yg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rolek7yg&theme=tokyonight&hide_border=true)
   
   </td>
 </tr>
